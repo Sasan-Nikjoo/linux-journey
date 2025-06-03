@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Welcome to my repository! This contains the exercises and projects completed during my <strong>Linux course</strong> at [University Name].
+  Welcome to my repository! This contains the exercises and projects completed during my <strong>Linux course</strong> at Ferdowsi University Of Mashhad.
   The focus is on mastering Linux system administration, shell scripting, file management, permissions, and networking.
 </p>
 

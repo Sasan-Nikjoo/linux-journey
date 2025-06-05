@@ -97,6 +97,26 @@
       <td><a href="./Week6">Week 6 Exercises</a></td>
     </tr>
     <tr>
+      <td><strong>Week 6</strong></td>
+      <td>Networking Basics</td>
+      <td><a href="./Week6">Week 7 Exercises</a></td>
+    </tr>
+    <tr>
+      <td><strong>Week 6</strong></td>
+      <td>Networking Basics</td>
+      <td><a href="./Week6">Week 8 Exercises</a></td>
+    </tr>
+    <tr>
+      <td><strong>Week 6</strong></td>
+      <td>Networking Basics</td>
+      <td><a href="./Week6">Week 9 Exercises</a></td>
+    </tr>
+    <tr>
+      <td><strong>Week 6</strong></td>
+      <td>Networking Basics</td>
+      <td><a href="./Week6">Week 10 Exercises</a></td>
+    </tr>
+    <tr>
       <td><strong>Final Project</strong></td>
       <td>Automation with Shell Scripts</td>
       <td><a href="./FinalProject">Final Project</a></td>

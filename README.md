@@ -97,22 +97,22 @@
       <td><a href="./Week6">Week 6 Exercises</a></td>
     </tr>
     <tr>
-      <td><strong>Week 6</strong></td>
+      <td><strong>Week 7</strong></td>
       <td>Networking Basics</td>
       <td><a href="./Week6">Week 7 Exercises</a></td>
     </tr>
     <tr>
-      <td><strong>Week 6</strong></td>
+      <td><strong>Week 8</strong></td>
       <td>Networking Basics</td>
       <td><a href="./Week6">Week 8 Exercises</a></td>
     </tr>
     <tr>
-      <td><strong>Week 6</strong></td>
+      <td><strong>Week 9</strong></td>
       <td>Networking Basics</td>
       <td><a href="./Week6">Week 9 Exercises</a></td>
     </tr>
     <tr>
-      <td><strong>Week 6</strong></td>
+      <td><strong>Week 10</strong></td>
       <td>Networking Basics</td>
       <td><a href="./Week6">Week 10 Exercises</a></td>
     </tr>
